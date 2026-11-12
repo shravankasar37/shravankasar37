@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="divider"><style>.s{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}.m{font-family:'JetBrains Mono','Cascadia Code',Consolas,'SFMono-Regular',Menlo,monospace}</style><defs><linearGradient id="dl" x1="0" x2="1"><stop stop-color="#FF5A1F" stop-opacity="0"/><stop offset=".5" stop-color="#FF5A1F" stop-opacity=".6"/><stop offset="1" stop-color="#2F6BFF" stop-opacity="0"/></linearGradient>
+<radialGradient id="dg"><stop stop-color="#fff"/><stop offset=".35" stop-color="#FF5A1F"/><stop offset="1" stop-color="#FF5A1F" stop-opacity="0"/></radialGradient></defs>
+<rect y="11" width="1200" height="2" fill="url(#dl)"/>
+<circle cy="12" r="10" fill="url(#dg)"><animate attributeName="cx" values="0;1200" dur="4s" repeatCount="indefinite"/></circle></svg>
