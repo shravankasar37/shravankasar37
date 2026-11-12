@@ -84,12 +84,12 @@ I'm a **B.Tech IT** student at **Pillai College of Engineering** and the founder
 ## 📊 `github.activity`
 
 <p align="center">
-  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details and contribution graph"/>
+  <img width="100%" src="https://raw.githubusercontent.com/shravankasar37/shravankasar37/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details and contribution graph"/>
 </p>
 
 <p align="center">
-  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
-  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages"/>
+  <img height="170" src="https://raw.githubusercontent.com/shravankasar37/shravankasar37/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
+  <img height="170" src="https://raw.githubusercontent.com/shravankasar37/shravankasar37/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages"/>
   <img height="170" src="https://streak-stats.demolab.com?user=shravankasar37&hide_border=true&background=0A0F1D&ring=FF5A1F&fire=FF5A1F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF5A1F&sideLabels=8A94AA&dates=8A94AA&stroke=1E2A44" alt="GitHub streak"/>
 </p>
 
